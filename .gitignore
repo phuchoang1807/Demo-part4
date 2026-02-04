@@ -1,0 +1,54 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# =========================
+# Unity / IDE extra files
+# =========================
+.vsconfig
+UpgradeLog.htm
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Unity cache / debug
+# =========================
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# =========================
+# Do NOT ignore important folders
+# (these MUST be pushed)
+# =========================
+!Assets/
+!Packages/
+!ProjectSettings/
